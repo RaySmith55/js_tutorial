@@ -1,0 +1,3 @@
+#!/Users/rsm38/.nvm/versions/node/v8.9.4/bin/node
+
+console.log('Hello, world!');
